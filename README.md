@@ -1,2 +1,2 @@
 # LTA
-Linear Approximation Table of S-Box for SPN
+** Linear Approximation Table of S-Box for SPN **
