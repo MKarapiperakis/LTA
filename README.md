@@ -1,6 +1,6 @@
-#Linear Approximation Table of S-Box for SPN 
+# Linear Approximation Table of S-Box for SPN 
 
-# Run App.jar
+## Run App.jar
 ```bash
 java -jar App.jar
 ```
